@@ -1,0 +1,14 @@
+jupyterlab
+beautifulsoup4
+openpyxl
+lxml
+pandas
+numpy
+matplotlib
+scikit-learn
+scipy
+gensim
+Janome
+Pillow
+python-dateutil
+requests
